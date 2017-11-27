@@ -1,0 +1,100 @@
+Year,Case Vehicle ID,Vehicle Body Type,Registration Class,Action Prior to Accident,Type / Axles of Truck or Bus,Direction of Travel,Fuel Type,Vehicle Year,State of Registration,Number of Occupants,Engine Cylinders,Vehicle Make,Contributing Factor 1,Contributing Factor 1 Description,Contributing Factor 2,Contributing Factor 2 Description,Event Type,Partial VIN
+2013,11256149,2 DOOR SEDAN,Not Entered,Backing,Not Entered,South,Not Entered,2013,NY,1,,HOND,HUMAN,Backing Unsafely,HUMAN,Driver Inattention/Distraction*,Not Applicable,
+2013,11330798,4 DOOR SEDAN,Not Entered,Overtaking/Passing,Not Entered,North,Not Entered,2013,VA,1,,DODG,HUMAN,Unsafe Lane Changing,HUMAN,Passing or Lane Usage Improper,"Overturned, Non-Collision",
+2013,11053659,2 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2010,PA,1,,NISS,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,
+2013,10831549,POLICE VEHICLE,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2012,NY,1,,FORD,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,
+2013,10890741,SUBURBAN,Not Entered,Changing Lanes,Not Entered,North,Not Entered,2006,NJ,3,,DODG,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,
+2013,11095421,4 DOOR SEDAN,Not Entered,Making Left Turn,Not Entered,Northwest,Not Entered,2013,TN,1,,TOYT,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,
+2012,10001283,4 DOOR SEDAN,DEALER,Going Straight Ahead,Not Entered,East,None,2001,NY,1,0,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,
+2012,10454932,4 DOOR SEDAN,DEALER,Going Straight Ahead,Not Entered,East,None,2012,NY,1,0,CHRY,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,
+2012,10742629,DUMP,Not Entered,Making Right Turn,Not Entered,Southwest,None,2001,NY,1,0,MAC,HUMAN,Unsafe Lane Changing,HUMAN,Driver Inattention/Distraction*,Not Applicable,
+2012,10915394,4 DOOR SEDAN,DEALER,Going Straight Ahead,Not Entered,South,None,2006,NY,1,0,ME/BE,HUMAN,Following Too Closely,HUMAN,Not Entered,Not Entered,
+2013,11376104,SUBURBAN,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,2007,NY,2,,FORD,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,
+2013,10950427,4 DOOR SEDAN,Not Entered,Parked,Not Entered,South,Not Entered,1998,NY,0,,MAZD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1YVGF22D3W5
+2013,11245573,TRACTOR,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2000,NJ,1,,FRHT,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,IU201417285
+2013,11094257,PICKUP TRUCK,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2007,MS,1,,CHEV,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,
+2013,11202923,4 DOOR SEDAN,Not Entered,Slowing or Stopping,Not Entered,North,Not Entered,2013,IL,2,,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FADP3F28DL
+2013,10944884,DELIVERY TRUCK,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,1988,UN,1,,GRUM,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GBBS10EXK2
+2013,11078782,4 DOOR SEDAN,Not Entered,Slowing or Stopping,Not Entered,East,Not Entered,2012,NJ,1,,CHEV,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,
+2012,11143993,TRACTOR,SEMI-TRAILER,Making Right Turn,Not Entered,South,None,2012,NY,1,0,AM/HA,HUMAN,Not Entered,HUMAN,Not Entered,Not Entered,5N6200F20C1
+2013,11169688,4 DOOR SEDAN,Not Entered,Making Left Turn,Not Entered,South,Not Entered,2005,NY,4,,TOYT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,
+2013,11161588,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2012,NJ,4,,AUDI,VEHICLE,Other*,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",WA1CGAFE8CD
+2013,11386643,MOTORCYCLE,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2007,NJ,1,,HA/DA,HUMAN,Unknown,HUMAN,Not Entered,Not Applicable,1HD1JL5147Y
+2013,11388795,4 DOOR SEDAN,Not Entered,Making Right Turn,Not Entered,Northeast,Not Entered,2010,NY,1,,CHEV,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,
+2013,10949728,SUBURBAN,Not Entered,Making Left Turn,Not Entered,South,Not Entered,2013,NJ,1,,FORD,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,
+2013,11592276,FLAT BED TRUCK,COMMERCIAL,Stopped in Traffic,Not Entered,East,Gas,2008,NY,1,10,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FDAF56Y38E
+2013,11324702,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2011,MA,1,,CHEV,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2G1WB5EK7B1
+2013,11386243,TRACTOR,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2009,OK,1,,FRHT,HUMAN,Driver Inattention/Distraction*,HUMAN,Following Too Closely,Not Applicable,1FUJBBCK39L
+2013,10809401,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2012,NJ,1,,HYUN,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,5NPDH4AE1CH
+2013,11034074,Not Entered,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,,,1,,,HUMAN,Unknown,HUMAN,Unknown,Not Applicable,
+2013,11560358,PICKUP TRUCK,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,2006,AK,4,,TOYT,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,5TBET34116S
+2013,11610502,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2008,CT,1,,NISS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3N1AB61E38L
+2013,10931825,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,West,Not Entered,2007,CT,1,,VOLV,ENVMT,View Obstructed/Limited,HUMAN,Failure to Yield Right-of-Way,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",YV1RH592672
+2013,11115701,4 DOOR SEDAN,Not Entered,Parked,Not Entered,Unknown,Not Entered,2008,CT,0,,HYUN,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5NPET46C98H
+2013,10999745,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2009,MN,1,,VOLV,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Entered,
+2013,11526173,FIRE VEHICLE,Not Entered,Going Straight Ahead,Not Entered,Southeast,Not Entered,2009,NY,1,,SPTN,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,4S7AU2F969C
+2013,11423026,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,Southeast,Not Entered,2005,PA,3,,CHRY,HUMAN,Aggressive Driving/Road Rage,HUMAN,Failure to Keep Right,Not Applicable,3C4FY48B05T
+2013,11308219,SUBURBAN,Not Entered,Going Straight Ahead,Not Entered,Northwest,Not Entered,2006,CT,1,,TOYT,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,
+2013,11633945,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,Southeast,Not Entered,2013,NY,2,,HYUN,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,
+2013,11395783,TRACTOR,Not Entered,Making Right Turn,Not Entered,North,Not Entered,2003,PA,1,,KW,HUMAN,Unknown,HUMAN,Not Applicable,Not Applicable,1XKWD89X23J
+2013,11457986,SUBURBAN,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2004,CT,1,,FORD,HUMAN,Alcohol Involvement,HUMAN,Fell Asleep,Not Applicable,
+2013,10950672,SUBURBAN,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,2012,NJ,1,,LEXS,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,JTJBM7FX8C5
+2013,11179199,4 DOOR SEDAN,Not Entered,Making Left Turn,Not Entered,Northwest,Not Entered,2010,FL,1,,FORD,HUMAN,Turning Improperly,HUMAN,Not Applicable,Not Applicable,
+2013,11299375,4 DOOR SEDAN,Not Entered,Making Left Turn,Not Entered,West,Not Entered,2004,PA,1,,PONT,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,
+2013,11572398,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,2013,MD,1,,FORD,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,
+2013,11495022,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,2000,CT,1,,TOYT,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,4T1BF22K3YU
+2013,11783575,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,2010,NY,1,,HONDA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,
+2013,11132317,SUBURBAN,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2006,MA,5,,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FMFU18526L
+2013,10920491,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2007,NY,1,,TOYT,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,
+2013,11549669,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2005,PA,1,,TOYT,HUMAN,Traffic Control Device Disregarded,HUMAN,Not Applicable,"Overturned, Non-Collision",2T1BR32E35C
+2013,10861000,VAN TRUCK,Not Entered,Going Straight Ahead,Not Entered,West,Not Entered,2003,PA,1,,INTE,ENVMT,Pavement Slippery,ENVMT,View Obstructed/Limited,"Other Motor Vehicle, Collision With",4KAMGABMX3A
+2012,10459509,MOTORCYCLE,CLASS B LIMITED USE MOTORCYCLE,Making Right Turn,Not Entered,Northeast,Gas,2005,NY,1,1,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JH2AF60415K
+2013,10800352,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,2011,ME,1,,CADI,HUMAN,Prescription Medication,HUMAN,Unsafe Lane Changing,Not Applicable,
+2012,10194609,PICKUP TRUCK,POLITICAL SUBDIVISION,Stopped in Traffic,Not Entered,East,Gas,2008,NY,2,10,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FTWX31Y28E
+2013,11481774,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,West,Not Entered,2008,GA,1,,LEXS,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Entered,JTHBE96S380
+2013,11023684,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2005,NY,1,,TOYT,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,"Tree, Collision With Fixed Object",
+2013,11595087,4 DOOR SEDAN,Not Entered,Slowing or Stopping,Not Entered,West,Not Entered,2010,NJ,2,,TOYT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4T1BB3EK4AU
+2013,11572845,4 DOOR SEDAN,Not Entered,Stopped in Traffic,Not Entered,South,Not Entered,2012,VA,1,,NISS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,
+2013,11336198,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,1994,NJ,1,,HOND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,
+2013,11343055,PICKUP TRUCK,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2006,NY,1,,FORD,HUMAN,Not Applicable,ENVMT,Animal's Action,Not Applicable,
+2013,11582492,SUBURBAN,Not Entered,Going Straight Ahead,Not Entered,West,Not Entered,2001,NJ,1,,SUBA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,
+2013,11502543,TRACTOR,Not Entered,Going Straight Ahead,Not Entered,West,Not Entered,2007,IA,1,,FRHT,HUMAN,Traffic Control Device Disregarded,HUMAN,Not Applicable,Not Applicable,1FUJBBAV27L
+2013,11544573,4 DOOR SEDAN,Not Entered,Slowing or Stopping,Not Entered,West,Not Entered,2009,NY,1,,HOND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,
+2013,11153609,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2004,SC,1,,FORD,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1FMZU63K44U
+2013,11395761,TRACTOR,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2005,IN,1,,FRHT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,
+2013,11389103,SUBURBAN,Not Entered,Parked,Not Entered,North,Not Entered,2003,GA,1,,FORD,VEHICLE,Other*,HUMAN,Not Applicable,Not Applicable,1FMPU17L93L
+2013,11280549,SUBURBAN,Not Entered,Stopped in Traffic,Not Entered,South,Not Entered,1994,FL,2,,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,
+2013,10945793,2 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,West,Not Entered,2009,GA,1,,SCIO,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,
+2013,11335010,MOTORCYCLE,MOTORCYCLE,Going Straight Ahead,Not Entered,East,Gas,2006,NY,2,1,KAWAS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JKBVNME156A
+2013,11169713,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,1997,NY,1,,TOYT,HUMAN,Driver Inattention/Distraction*,HUMAN,Following Too Closely,Not Applicable,4T1BG22K7VU
+2013,11462058,DELIVERY TRUCK,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,1988,US,1,,GRUM,VEHICLE,Other*,HUMAN,Not Applicable,Not Applicable,1GBBS10E3K2
+2013,11542677,PICKUP TRUCK,Not Entered,Slowing or Stopping,Not Entered,West,Not Entered,2007,PA,1,,DODG,ENVMT,Obstruction/ Debris,HUMAN,Not Applicable,Not Applicable,
+2013,11180902,4 DOOR SEDAN,Not Entered,Making Left Turn,Not Entered,North,Not Entered,2003,IL,3,,JAGU,HUMAN,Failure to Yield Right-of-Way,HUMAN,Turning Improperly,Not Applicable,
+2013,11185367,VAN TRUCK,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,2013,FL,2,,CHRY,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,
+2013,11085160,SUBURBAN,Not Entered,Making Left Turn,Not Entered,West,Not Entered,2010,ON,1,,TOYT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,
+2013,11556751,PICKUP TRUCK,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,2004,NJ,1,,CHEV,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1GCDT136448
+2013,11455491,SUBURBAN,Not Entered,Slowing or Stopping,Not Entered,North,Not Entered,2010,PA,1,,TOYT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,
+2013,11620035,BUS (OMNIBUS),Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,2013,NY,1,,MCIN,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,2MG3JM8A7DW
+2013,11231725,4 DOOR SEDAN,Not Entered,Making Left Turn,Not Entered,Southwest,Not Entered,2009,PA,2,,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,
+2013,11734632,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2010,NJ,1,,CHRY,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,
+2013,11041621,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2002,NY,1,,CHEV,HUMAN,Illness,HUMAN,Not Applicable,"Tree, Collision With Fixed Object",
+2013,11477119,4 DOOR SEDAN,Not Entered,Slowing or Stopping,Not Entered,North,Not Entered,2007,IN,1,,VOLK,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,
+2013,11346728,OTHER VEHICLE,Not Entered,Going Straight Ahead,Not Entered,West,Not Entered,2001,PA,1,,CHEV,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,
+2013,11546612,PICKUP TRUCK,Not Entered,Making Left Turn,Not Entered,North,Not Entered,2004,MA,1,,TOYT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,
+2013,11591378,PICKUP TRUCK,Not Entered,Parked,Not Entered,South,Not Entered,2000,NC,2,,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1ETBX18H8YN
+2013,11085833,SUBURBAN,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2011,CT,1,,HOND,HUMAN,Following Too Closely,HUMAN,Following Too Closely,Not Applicable,
+2013,11131133,POLICE VEHICLE,Not Entered,Stopped in Traffic,Not Entered,South,Not Entered,2012,NY,1,,CHEV,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3VWCC21C0YM
+2013,11253088,BICYCLIST,Not Entered,Going Straight Ahead,Not Entered,West,Not Entered,,,1,,,HUMAN,Pedestrian/Bicyclist Error/Confusion,HUMAN,Not Applicable,Not Applicable,
+2013,11603346,SUBURBAN,Not Entered,Going Straight Ahead,Not Entered,West,Not Entered,2002,NY,2,,HYUN,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KM8SC73D82U
+2013,10989070,TRACTOR,Not Entered,Going Straight Ahead,Not Entered,West,Not Entered,2011,IN,1,,VOLV,ENVMT,Animal's Action,HUMAN,Not Applicable,"Guide Rail - End, Collision With Fixed Object",4V4NC9EJXBN
+2013,11622893,SUBURBAN,Not Entered,Going Straight Ahead,Not Entered,North,Not Entered,2003,NJ,1,,CHEV,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,
+2013,11196182,2 DOOR SEDAN,Not Entered,Backing,Not Entered,South,Not Entered,2014,NJ,1,,AUDI,HUMAN,Backing Unsafely,HUMAN,Driver Inattention/Distraction*,Not Applicable,WAUCFAFR3BA
+2013,11222679,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2003,NY,1,10,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Overturned, Non-Collision",1FTNX21S83E
+2013,11626941,PICKUP TRUCK,Not Entered,Going Straight Ahead,Not Entered,South,Not Entered,2008,NH,1,,TOYT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5TEUU42N78Z
+2013,11194330,4 DOOR SEDAN,Not Entered,Making Left Turn,Not Entered,Southeast,Not Entered,2005,NY,1,,JAGU,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,
+2013,11558377,TRACTOR,Not Entered,Going Straight Ahead,Not Entered,West,Not Entered,2012,NC,1,,INTL,ENVMT,Obstruction/ Debris,HUMAN,Not Applicable,Not Applicable,1HSHWSJN8CJ
+2013,10979189,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,West,Not Entered,2007,OH,1,,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,2FMDK36C47B
+2013,11172280,4 DOOR SEDAN,Not Entered,Going Straight Ahead,Not Entered,East,Not Entered,2011,NY,1,,NISS,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,1N4AL2AP3BN
+2012,11020523,MOTORCYCLE,MOTORCYCLE,Going Straight Ahead,Not Entered,South,Gas,2006,NY,1,1,YAMAH,HUMAN,Unknown,HUMAN,Not Entered,Not Entered,LPRSA30A06A
+2012,10062965,PICKUP TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,South,Gas,1999,NY,2,10,FORD,HUMAN,Driver Inattention/Distraction*,HUMAN,Following Too Closely,Not Applicable,1FTSX31S4XE
+2013,11568750,PICKUP TRUCK,Not Entered,Starting from Parking,Not Entered,West,Not Entered,1997,CT,2,,FORD,HUMAN,Driver Inattention/Distraction*,HUMAN,Passenger Distraction,Not Applicable,
